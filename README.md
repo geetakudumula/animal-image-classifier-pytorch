@@ -1,4 +1,4 @@
-🧠 Animal Image Classifier — PyTorch V1
+## Animal Image Classifier — PyTorch V1
 
 This is a simple, educational project that demonstrates how to build a grayscale image classifier using PyTorch. The model classifies synthetic 28x28 images into three classes: cats, dogs, and raccoons.
 
@@ -9,11 +9,11 @@ The idea is to start small and use this to learn basic PyTorch concepts like:
 - Accuracy metrics
 - Validation and testing
 
-✅ This project was created by [Geeta Kudumula](https://www.linkedin.com/in/geetakudumula) as part of a practical AI learning path.
+This project was created by [Geeta Kudumula](https://www.linkedin.com/in/geetakudumula) as part of a practical AI learning path.
 
 ---
 
-## 🛠️ Tools & Frameworks
+##  Tools & Frameworks
 - Python 3.8+
 - PyTorch
 - NumPy
@@ -21,7 +21,7 @@ The idea is to start small and use this to learn basic PyTorch concepts like:
 
 ---
 
-## 🧱 Model Overview
+## Model Overview
 
 Input: 28x28 grayscale image  
 Layers:
@@ -32,7 +32,7 @@ Layers:
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 | File                    | Description                                  |
 |-------------------------|----------------------------------------------|
@@ -41,7 +41,7 @@ Layers:
 
 ---
 
-## 🖼️ Sample Output
+##  Sample Output
 Test Image 1: Predicted as 'Cat' with 0.54 confidence 
 Test Image 2: Predicted as 'Dog' with 0.49 confidence 
 Test Image 3: Predicted as 'Raccoon' with 0.58 confidence
@@ -49,13 +49,13 @@ Test Image 3: Predicted as 'Raccoon' with 0.58 confidence
 
 ---
 
-## 🧠 Why I Built This
+##  Why I Built This
 
 As someone with experience in cloud, streaming, and data architecture, I’m expanding into AI by practicing end-to-end model development and inference using different ML frameworks.
 
 ---
 
-## 🚀 What’s Next (V2 Ideas)
+##  What’s Next (V2 Ideas)
 
 - Use real-world datasets like CIFAR-10
 - Add image augmentation and transforms
@@ -65,14 +65,13 @@ As someone with experience in cloud, streaming, and data architecture, I’m exp
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Created by Geeta Kudumula  
 AI/ML + Cloud Solutions Architect
 
 ---
-
-⭐ Found this useful? Give it a star and follow along as I continue learning and building!
+ Found this useful? Give it a star and follow along as I continue learning and building!
 
 
 
