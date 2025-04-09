@@ -42,4 +42,37 @@ Layers:
 ---
 
 ## 🖼️ Sample Output
+Test Image 1: Predicted as 'Cat' with 0.54 confidence 
+Test Image 2: Predicted as 'Dog' with 0.49 confidence 
+Test Image 3: Predicted as 'Raccoon' with 0.58 confidence
+
+
+---
+
+## 🧠 Why I Built This
+
+As someone with experience in cloud, streaming, and data architecture, I’m expanding into AI by practicing end-to-end model development and inference using different ML frameworks.
+
+---
+
+## 🚀 What’s Next (V2 Ideas)
+
+- Use real-world datasets like CIFAR-10
+- Add image augmentation and transforms
+- Save and load the model for inference
+- Add torchmetrics and tensorboard logging
+- Try deploying using Flask or Streamlit
+
+---
+
+## 👩‍💻 Author
+
+Created by Geeta Kudumula  
+AI/ML + Cloud Solutions Architect
+
+---
+
+⭐ Found this useful? Give it a star and follow along as I continue learning and building!
+
+
 
